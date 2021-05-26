@@ -1,0 +1,18 @@
+name: McOsu
+author: SuperNeon4ik
+main: me.superneon4ik.mcosu.Main
+
+version: 1.0-SNAPSHOT
+api-version: 1.15
+
+commands:
+  mcosu.sendresourcepack:
+    description: Sends osu!mc resource pack to specified players.
+    permission: op
+  mcosu.testspawnarmorstand:
+    permission: op
+  mcosu.listbeatmaps:
+    description: Lists all available beatmaps.
+  mcosu.play:
+    description: Play osu!minecraft
+    permission: op
