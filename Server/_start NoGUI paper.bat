@@ -1,0 +1,1 @@
+@"C:\Program Files\Java\jdk-13.0.2\bin\java.exe" -Xmx10000M -Xms10000M -jar server.jar nogui
